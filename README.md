@@ -1,3 +1,3 @@
 # CI_Framework
-CI automation,it used with jenkins and robot.
+CI automation, it used with jenkins and robot.
 
